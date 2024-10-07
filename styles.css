@@ -64,6 +64,7 @@ header .hamburger-menu {
   display: none;
   position: absolute;
   right: 0px;
+  top: 20px;
 }
 
 header nav .desktop {
